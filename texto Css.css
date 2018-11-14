@@ -1,0 +1,11 @@
+.caja1 {
+    widows: 100px;
+    height: 80px; 
+    background-color:lightgray;
+    color:palevioletred ;
+    text-align: center
+}
+.tan {
+    font-size: 50px;
+    text-decoration:underline;
+}
